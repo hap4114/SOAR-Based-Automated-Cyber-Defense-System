@@ -384,5 +384,3 @@ Technologies: Python, FastAPI, React, SQLite,
 ## License
 MIT License — free to use and modify
 
-## Author
-Built for MS Cybersecurity portfolio
